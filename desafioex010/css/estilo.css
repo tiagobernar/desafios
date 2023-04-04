@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.imagem-circular {
+    border-radius: 50%;
+}
+
+p {
+    text-align: justify;
+    text-indent: 40px;
+}
+
+li {
+    height: 25px;
+    
+}
